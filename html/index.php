@@ -21,6 +21,8 @@
 					<img src="logo.png" alt="Vultr" style="width: 100%; min-width: 100px; max-width: 502px; height: auto; padding: 16px; box-sizing: border-box;"/><br/>
 					<span style="text-decoration: none; color: #ffffff; font-size: 24px;">石头数据™</span>
 				</a>
+				<div>用户名：<input></input><div>
+				<div>密码：<input type="password"></input></div>
 			</div>
 
 		</div>
